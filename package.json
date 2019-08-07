@@ -1,0 +1,27 @@
+{
+  "name": "trailer-imooc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkj/trailer-imooc-demo.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "maxboren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkj/trailer-imooc-demo/issues"
+  },
+  "homepage": "https://github.com/wangkj/trailer-imooc-demo#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
