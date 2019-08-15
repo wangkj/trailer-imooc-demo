@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/wangkj/trailer-imooc-demo#readme",
   "dependencies": {
-    "koa": "^2.7.0"
+    "ejs": "^2.6.2",
+    "koa": "^2.7.0",
+    "pug": "^2.0.4"
   }
 }
